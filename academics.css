@@ -2,7 +2,7 @@ body {
     background-color: #fdfdbb;
 }
 
-.header, .main, .footer {
+.header, .main {
     margin: 20px;
     padding: 20px;
 }
