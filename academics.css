@@ -12,9 +12,25 @@ a {
     color: #ff0000;
 }
 
+table {
+    border-color: #000000;
+}
+
+th {
+    background-color: #259e3f;
+    color: #000000;
+    text-align: left;
+}
+
+td {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: left;
+}
+
 h1{
     margin: 10px 0;
-    text-align: center;
+    text-align: left;
 }
 
 h5{
@@ -23,8 +39,4 @@ h5{
     bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
-}
-
-span {
-    color: #0000ff
 }
